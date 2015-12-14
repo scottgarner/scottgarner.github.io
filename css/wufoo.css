@@ -1,4 +1,6 @@
-input.text {
-    border: 1px solid #d8d8d8;
-    background: #fff;
+input, textarea {
+        border-radius: 2px;
+        border: 1px solid #d8d8d8;
+        background: #fff;
+        padding: 4px;
 }
