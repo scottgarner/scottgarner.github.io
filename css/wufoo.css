@@ -1,4 +1,4 @@
-input, textarea {
+.wufoo input.text, .wufoo textarea.textarea {
         border-radius: 2px;
         border: 1px solid #d8d8d8;
         background: #fff;
